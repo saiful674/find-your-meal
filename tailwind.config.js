@@ -10,6 +10,7 @@ export default {
       black: '#000',
       white: '#fff',
       pink: 'rgb(238,124,173)',
+      red: '#E7041C',
       gray: {
         100: '#f7fafc',
         900: '#1a202c',

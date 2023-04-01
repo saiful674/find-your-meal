@@ -5,7 +5,7 @@ const Header = () => {
         <div className='sticky top-0 z-10'>
             <div className="navbar bg-base-100 shadow-md px-5 md:px-10">
                 <div className="flex-1">
-                    <a className="normal-case text-xl font-bold text-pink">Find Your Meal</a>
+                    <a className="normal-case text-xl font-bold text-red">Find Your Meal</a>
                 </div>
                 <div className="flex-none">
                     <div className="dropdown dropdown-end">
